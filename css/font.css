@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url(../fonts/Raleway-Medium.ttf) format('truetype');
+    font-size: 400;
+}
+@font-face {
+    font-family: 'Railway';
+    src: url(../fonts/Raleway-Medium.ttf) format('truetype');
+    font-size: 700;
+}
+@font-face {
+    font-family: 'Railway';
+    src: url(../fonts/Raleway-Medium.ttf) format('truetype');
+    font-size: 800;
+}
+@font-face {
+    font-family: 'Rubik';
+    src: url(../fonts/Rubik-Medium.ttf) format('truetype');
+    font-size: 700;
+}
